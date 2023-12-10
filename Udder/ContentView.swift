@@ -14,6 +14,7 @@ struct ContentView: View {
             VStack {
                 Text("Hello, world!")
                 Text("branch2")
+                Text("text after push")
             }
         }
         .onAppear()
