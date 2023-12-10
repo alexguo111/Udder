@@ -16,6 +16,7 @@ struct ContentView: View {
                 Text("branch2")
             }
         }
+        .onAppear()
     }
 }
 
